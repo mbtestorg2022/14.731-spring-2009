@@ -349,7 +349,7 @@ Migration
 {{< tdopen >}}
 
 
-Davis, Donald R., and David E. Weinstein. "[Bones, Bombs, and Break Points: The Geography of Economic Activity](http://ideas.repec.org/p/nbr/nberwo/8517.html)." _American Economic Review_ 92, no. 5 (2002): 1269-1289. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.columbia.edu/~drd28/BBB.pdf))
+Davis, Donald R., and David E. Weinstein. "[Bones, Bombs, and Break Points: The Geography of Economic Activity](http://ideas.repec.org/p/nbr/nberwo/8517.html)." _American Economic Review_ 92, no. 5 (2002): 1269-1289. ([PDF](http://www.columbia.edu/~drd28/BBB.pdf))
 
 Hornbeck, Richard. "Quantifying Long-term Adjustment to Environmental Change: Evidence from the American Dust Bowl." Mimeograph, Massachusetts Institute of Technology, 2008.
 
